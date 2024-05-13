@@ -1,4 +1,4 @@
-path: rock_scissors_paper_by_kaggle/archive/
+path: /content/rock_scissors_paper_by_kaggle/archive/
 train: train/images
 val: valid/images
 test: test/images
